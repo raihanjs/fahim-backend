@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-const titles = require("./data/title.json");
+const titles = require("./data/titles.json");
 const about = require("./data/about.json");
 const skills = require("./data/skills.json");
 const projects = require("./data/projects.json");
