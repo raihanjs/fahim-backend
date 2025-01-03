@@ -9,6 +9,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 const about = require("./data/about.json");
+const titles = require("./data/title.json");
 const skills = require("./data/skills.json");
 const projects = require("./data/projects.json");
 const homeAbout = require("./data/homeabout.json");
@@ -23,6 +24,10 @@ app.get("/api/data", (req, res) => {
   res.json(data);
 });
 
+// Get Home skill data
+app.get("/portfolio/api/titles", (req, res) => {
+  res.send(titles);
+});
 // Get Home skill data
 app.get("/portfolio/api/skills", (req, res) => {
   res.send(skills);
