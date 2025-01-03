@@ -2,10 +2,11 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 const app = express();
 app.use(cors());
+app.use(bodyParser.json());
 
 const about = require("./data/about.json");
 const skills = require("./data/skills.json");
@@ -15,6 +16,12 @@ const achievments = require("./data/acheivements.json");
 const leaderships = require("./data/leaderships.json");
 const experiences = require("./data/experiences.json");
 const certificates = require("./data/certificates.json");
+
+// Example API endpoint
+app.get("/api/data", (req, res) => {
+  const data = { message: "Hello from Vercel!" };
+  res.json(data);
+});
 
 // Get Home skill data
 app.get("/portfolio/api/skills", (req, res) => {
