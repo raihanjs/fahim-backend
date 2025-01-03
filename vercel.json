@@ -8,14 +8,9 @@
   ],
   "routes": [
     {
-      "src": "/portfolio/api/skills",
-      "dest": "index.js"
-    }
-  ],
-  "REWRITES": [
-    {
-      "SOURCE": "/(.*)",
-      "DESTINATION": "/"
+      "src": "/(.*)",
+      "dest": "/",
+      "methods": ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"]
     }
   ]
 }
