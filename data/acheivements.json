@@ -1,0 +1,17 @@
+[
+  {
+    "_id": 1,
+    "name": "Best performer award",
+    "image": "https://www.qfahim.com/assets/media/achievements/achievement-1.jpg"
+  },
+  {
+    "_id": 2,
+    "name": "Class Honor Roll Award",
+    "image": "https://www.qfahim.com/assets/media/achievements/achievement-2.jpg"
+  },
+  {
+    "_id": 3,
+    "name": "Employee of the month",
+    "image": "https://www.qfahim.com/assets/media/achievements/achievement-3.jpg"
+  }
+]

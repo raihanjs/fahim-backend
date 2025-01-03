@@ -1,0 +1,173 @@
+[
+  {
+    "_id": 1,
+    "title": "DEMOCRACY AND OIL DISTRIBUTION",
+    "logo": "https://www.qfahim.com/assets/media/projects/democracy-and-oil-distribution/p-9.png",
+    "gallery": [
+      "https://www.qfahim.com/assets/media/projects/democracy-and-oil-distribution/pronine.jpg"
+    ],
+    "texts": [
+      "In-class presentation for PSCI 202, describing how democracies are shaped around mining and distributing oil and their global effects."
+    ],
+    "links": [
+      {
+        "name": "Presentation",
+        "link": ""
+      },
+      {
+        "name": "PSCI 202",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "title": "PROJECT S1",
+    "logo": "https://www.qfahim.com/assets/media/projects/project-s1/proten%20(3).jpg",
+    "gallery": [],
+    "texts": [
+      "In July 2020, BASICS, a charitable organization that I founded, collaborated with UCSKS, a child welfare organization, to renovate their school with new furniture, a ceiling fan, a water filter, and some financial support, under Project S1."
+    ],
+    "links": [
+      {
+        "name": "BASICS",
+        "link": ""
+      },
+      {
+        "name": "UCSKS",
+        "link": ""
+      },
+      {
+        "name": "Project S1",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "title": "NEWS ARTICLE ANALYSIS",
+    "logo": "https://www.qfahim.com/assets/media/projects/news-article-analysis/p-2.png",
+    "gallery": [],
+    "texts": [
+      "In-class project for CMNS 130, demonstrating how journalists approach news creation, focusing especially on yellow journalism."
+    ],
+    "links": [
+      {
+        "name": "Project",
+        "link": ""
+      },
+      {
+        "name": "CMNS 130",
+        "link": ""
+      },
+      {
+        "name": "",
+        "link": "Yellow Journalism"
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "title": "",
+    "logo": "https://www.qfahim.com/assets/media/projects/case-study-on-uniliver/p-3.png",
+    "gallery": [],
+    "texts": [""],
+    "links": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "title": "",
+    "logo": "https://www.qfahim.com/assets/media/projects/digital-is-forever/p-4.jpg",
+    "gallery": [],
+    "texts": [""],
+    "links": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "title": "",
+    "logo": "https://www.qfahim.com/assets/media/projects/data-warehousing/p-5.jpg",
+    "gallery": [],
+    "texts": [""],
+    "links": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "title": "",
+    "logo": "https://www.qfahim.com/assets/media/projects/studying-mass-communication/p-6.jpg",
+    "gallery": [],
+    "texts": [""],
+    "links": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "title": "",
+    "logo": "https://www.qfahim.com/assets/media/projects/democratic-differences-between-india&canada/p-7.jpg",
+    "gallery": [],
+    "texts": [""],
+    "links": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "_id": 9,
+    "title": "",
+    "logo": "https://www.qfahim.com/assets/media/projects/project-awareness/p-8.jpg",
+    "gallery": [],
+    "texts": [""],
+    "links": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "_id": 10,
+    "title": "PROJECT RELIEF",
+    "logo": "https://www.qfahim.com/assets/media/projects/project-relief/p-1.jpg",
+    "gallery": [
+      "https://www.qfahim.com/assets/media/projects/project-relief/proone%20(1).jpg",
+      "https://www.qfahim.com/assets/media/projects/project-relief/proone%20(2).jpg",
+      "https://www.qfahim.com/assets/media/projects/project-relief/proone%20(3).jpg",
+      "https://www.qfahim.com/assets/media/projects/project-relief/proone%20(4).jpg",
+      "https://www.qfahim.com/assets/media/projects/project-relief/proone%20(5).jpg",
+      "https://www.qfahim.com/assets/media/projects/project-relief/proone%20(6).jpg"
+    ],
+    "texts": [
+      "In May 2020, BASICS conducted 3 food distribution events as Project Relief, outside the capital city, for 132 people, with a 230000 BDT budget. This was done to help people who were deprived of or lost their jobs due to the pandemic, with provisions to support their families."
+    ],
+    "links": [
+      {
+        "name": "Project Relief",
+        "link": ""
+      },
+      {
+        "name": "Basics",
+        "link": ""
+      }
+    ]
+  }
+]

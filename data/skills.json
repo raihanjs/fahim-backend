@@ -1,0 +1,47 @@
+[
+  {
+    "_id": 1,
+    "skillName": "Microsoft Dynamics",
+    "percentage": 90
+  },
+  {
+    "_id": 2,
+    "skillName": "Acrobat",
+    "percentage": 70
+  },
+  {
+    "_id": 3,
+    "skillName": "Adobe Premier Pro",
+    "percentage": 70
+  },
+  {
+    "_id": 4,
+    "skillName": "CRM",
+    "percentage": 70
+  },
+  {
+    "_id": 5,
+    "skillName": "QuickBook",
+    "percentage": 80
+  },
+  {
+    "_id": 6,
+    "skillName": "Sage 50",
+    "percentage": 70
+  },
+  {
+    "_id": 7,
+    "skillName": "Photoshop",
+    "percentage": 80
+  },
+  {
+    "_id": 8,
+    "skillName": "Illustrator",
+    "percentage": 60
+  },
+  {
+    "_id": 9,
+    "skillName": "Canva",
+    "percentage": 95
+  }
+]

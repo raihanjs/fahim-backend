@@ -1,0 +1,24 @@
+[
+  {
+    "_id": 1,
+    "name": "BASICS",
+    "banner": "https://www.qfahim.com/assets/media/leaderships/b-1.jpg",
+    "logo": "https://www.qfahim.com/assets/media/leaderships/logo.jpg",
+    "gallery": [
+      "https://www.qfahim.com/assets/media/leaderships/r-1.jpg",
+      "https://www.qfahim.com/assets/media/leaderships/r-2.jpg",
+      "https://www.qfahim.com/assets/media/leaderships/r-3.jpg",
+      "https://www.qfahim.com/assets/media/leaderships/r-4.jpg",
+      "https://www.qfahim.com/assets/media/leaderships/r-5.jpg"
+    ],
+    "textContent": [
+      "In 2018, I, along with some of my friends, conducted a few charitable projects, and seeing the impact these had on people's lives, I decided to found BASICS in Jan 2019. Since then, I urged and assigned a few of my friends with specialized tasks and took in volunteers to organize periodical fundraisers and projects inside and outside the capital city of Bangladesh. During festivals, such as Eid and Pahela Baishak (Bengali New Year), and crises, such as COVID, we distributed clothes, provisions, and money to laborers and destitute people in need. We worked with other welfare and charitable organizations, such as Uttara Chinnomul Shishu Kollan Shongstha (UCSKS), providing support with renovations and finances. Some of our biggest projects include Project S1, Project Awareness, Project Relief, etc."
+    ],
+    "links": [
+      {
+        "title": "Basics",
+        "link": "https://www.facebook.com/profile.php?id=100064472601042"
+      }
+    ]
+  }
+]
