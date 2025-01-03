@@ -8,7 +8,6 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 
-const titles = require("./data/titles.json");
 const about = require("./data/about.json");
 const skills = require("./data/skills.json");
 const projects = require("./data/projects.json");
@@ -18,9 +17,10 @@ const leaderships = require("./data/leaderships.json");
 const experiences = require("./data/experiences.json");
 const certificates = require("./data/certificates.json");
 
-// Get Title data
-app.get("/portfolio/api/titles", (req, res) => {
-  res.send(titles);
+// Example API endpoint
+app.get("/api/data", (req, res) => {
+  const data = { message: "Hello from Vercel!" };
+  res.json(data);
 });
 
 // Get Home skill data
