@@ -23,7 +23,7 @@
     "paraLists": [
 
 
-      
+
       "Efficiently managed and processed 50-70 invoices/day using Microsoft Dynamics D365 F&O.",
       "Accurately matched posts and process invoices, ensuring timely submission and approval of claims.",
       "Conducted three weekly payment runs, ensuring all vendor payments are processed accurately and on time.",
@@ -35,7 +35,9 @@
     "paraImageOne": "https://media.licdn.com/dms/image/v2/D5622AQG_qyLgmpGTZw/feedshare-shrink_1280/feedshare-shrink_1280/0/1718690615982?e=1738800000&v=beta&t=-7C5RzwXIYe0UAobIQQ-EkTdkBtvAACi9wdodOGi5rM",
     "paraImageOneCaption": "“Team Paladin Technologies had a great time at the BC Lions match! A fantastic evening of fun and team spirit across all departments from Headquarter.”",
     "paraImageTwo": "https://media.licdn.com/dms/image/v2/D5622AQFDWDR_10lo1w/feedshare-shrink_2048_1536/B56ZPBweZfG8Ao-/0/1734122534450?e=1738800000&v=beta&t=bsljU3JYD-iRvioErGZQpnBSS1-SmsJmrBwlsKNWmkU",
-    "paraImgeTwoCaption": "Holiday party with the whole team of HQ"
+    "paraImgeTwoCaption": "Holiday party with the whole team of HQ",
+    "paraImageThree": "https://media.licdn.com/dms/image/v2/D5622AQEhC4AP0xaQeQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1733262586780?e=1738800000&v=beta&t=DpFro6qVKPA7aF6KRCvzuNJm9LVQnoSdkjUR2fNqJxU",
+    "paraImageThreeCaption": "Festive vibes and sweet treats.Team AP HQ, Paladin Technologies."  
   },
   {
     "_id": 2,
