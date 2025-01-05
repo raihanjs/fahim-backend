@@ -27,7 +27,11 @@
     "_id": 2,
     "title": "PROJECT S1",
     "logo": "https://www.qfahim.com/assets/media/projects/project-s1/proten%20(3).jpg",
-    "gallery": [],
+    "gallery": [
+      "https://www.qfahim.com/assets/media/projects/project-s1/proten.jpg",
+      "https://www.qfahim.com/assets/media/projects/project-s1/proten%20(2).jpg",
+      "https://www.qfahim.com/assets/media/projects/project-s1/proten%20(3).jpg"
+    ],
     "texts": [
       "In July 2020, BASICS, a charitable organization that I founded, collaborated with UCSKS, a child welfare organization, to renovate their school with new furniture, a ceiling fan, a water filter, and some financial support, under Project S1."
     ],
