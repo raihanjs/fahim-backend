@@ -12,14 +12,11 @@
     "links": [
       {
         "name": "Presentation",
-        "link": ""
+        "link": "https://docs.google.com/file/d/1Yt8Ki4V4Y3xyP2Pn8bCuhjHr6ksoCJD6/edit?filetype=mspresentation"
       },
       {
         "name": "PSCI 202",
-        "link": ""
-      },
-      { "name": "FB",
-        "link": "ww.facebook.com"
+        "link": "https://www.columbiacollege.ca/programs/course/psci-202/"
       }
     ]
   },
@@ -92,66 +89,86 @@
   },
   {
     "_id": 5,
-    "title": "",
+    "title": "DIGITAL IS FOREVER",
     "logo": "https://www.qfahim.com/assets/media/projects/digital-is-forever/p-4.jpg",
-    "gallery": [],
-    "texts": [""],
+    "gallery": ["https://www.qfahim.com/assets/media/projects/digital-is-forever/profour.png"],
+    "texts": ["In-class presentation for CSCI 237, describing the addiction and reliance on digitization and their surrounding concerns."],
     "links": [
       {
-        "name": "",
-        "link": ""
+        "name": "Presentation",
+        "link": "https://docs.google.com/file/d/1uFubVuceaAD4jTqdUO3EzLy2dPKlBHk3/edit?filetype=mspresentation"
+      },
+      {
+        "name": "CSCI 237",
+        "link": "https://www.columbiacollege.ca/programs/course/csci-237/"
       }
     ]
   },
   {
     "_id": 6,
-    "title": "",
+    "title": "DATA WAREHOUSING",
     "logo": "https://www.qfahim.com/assets/media/projects/data-warehousing/p-5.jpg",
-    "gallery": [],
-    "texts": [""],
+    "gallery": ["https://www.qfahim.com/assets/media/projects/data-warehousing/profive.png"],
+    "texts": ["Made an in-class presentation for CSCI 237, focusing on business intelligence, decision making, and data warehouses."],
     "links": [
       {
-        "name": "",
-        "link": ""
+        "name": "Presentation",
+        "link": "https://docs.google.com/file/d/1uFubVuceaAD4jTqdUO3EzLy2dPKlBHk3/edit?filetype=mspresentation"
+      },
+      {
+        "name": "CSCI 237",
+        "link":"https://www.columbiacollege.ca/programs/course/csci-237/"
       }
     ]
   },
   {
     "_id": 7,
-    "title": "",
+    "title": "STUDYING MASS COMMUNICATION",
     "logo": "https://www.qfahim.com/assets/media/projects/studying-mass-communication/p-6.jpg",
-    "gallery": [],
-    "texts": [""],
+    "gallery": ["https://www.qfahim.com/assets/media/projects/studying-mass-communication/prosix.jpg"],
+    "texts": ["In-class presentation for CMNS 130, discussing the importance of studying Mass Communication from a critical perspective."],
     "links": [
       {
-        "name": "",
-        "link": ""
+        "name": "Presentation",
+        "link": "https://docs.google.com/file/d/1hN4qWx_2X-fUzjapwpwtFMgt_cRYRJBO/edit?filetype=msword"
+      },
+      {
+        "name": "CMNS 130",
+        "link": "https://www.columbiacollege.ca/programs/course/cmns-130/"
       }
     ]
   },
   {
     "_id": 8,
-    "title": "",
+    "title": "PROJECT AWARENESS",
     "logo": "https://www.qfahim.com/assets/media/projects/democratic-differences-between-india&canada/p-7.jpg",
-    "gallery": [],
-    "texts": [""],
+    "gallery": ["https://www.qfahim.com/assets/media/projects/project-awareness/proeight%20(2).jpg"],
+    "texts": ["In May 2020, during Eid celebrations, we conducted Project Awareness through BASICS, distributing masks and using disinfectant sprays to spread awareness about the precautionary measures against COVID."],
     "links": [
       {
-        "name": "",
-        "link": ""
+        "name": "Project Awareness",
+        "link": "https://www.facebook.com/permalink.php?story_fbid=2509364569163988&id=1818239711609814"
+      },
+      {
+        "name": "BASICS",
+        "link": "https://www.facebook.com/profile.php?id=100064472601042"
       }
     ]
   },
   {
     "_id": 9,
-    "title": "",
+    "title": "DEMOCRATIC DIFFERENCES BETWEEN INDIA & CANADA",
     "logo": "https://www.qfahim.com/assets/media/projects/project-awareness/p-8.jpg",
-    "gallery": [],
-    "texts": [""],
+    "gallery": ["https://www.qfahim.com/assets/media/projects/democratic-differences-between-india&canada/proseven.jpg"],
+    "texts": ["In-class presentation for PSCI 202, highlighting the democratic differences between Canada and India."],
     "links": [
       {
-        "name": "",
-        "link": ""
+        "name": "Presentation",
+        "link": "https://docs.google.com/file/d/1LBvK9aeMB8zUsvN8af7EEd9KIGNfagxx/edit?filetype=mspresentation"
+      },
+      {
+        "name": "PSCI 202",
+        "link": "https://www.columbiacollege.ca/programs/course/psci-202//"
       }
     ]
   },
@@ -173,11 +190,11 @@
     "links": [
       {
         "name": "Project Relief",
-        "link": ""
+        "link": "https://www.facebook.com/permalink.php?story_fbid=2464267610340351&id=1818239711609814&_rdc=2&_rdr"
       },
       {
         "name": "Basics",
-        "link": ""
+        "link": "https://www.facebook.com/profile.php?id=100064472601042&_rdc=1&_rdr"
       }
     ]
   }
