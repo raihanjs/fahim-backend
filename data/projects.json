@@ -142,7 +142,13 @@
     "_id": 8,
     "title": "PROJECT AWARENESS",
     "logo": "https://www.qfahim.com/assets/media/projects/project-awareness/p-8.jpg",
-    "gallery": ["https://www.qfahim.com/assets/media/projects/project-awareness/proeight%20(2).jpg"],
+    "gallery": ["https://www.qfahim.com/assets/media/projects/project-awareness/proeight%20(1).jpg",
+                "https://www.qfahim.com/assets/media/projects/project-awareness/proeight%20(2).jpg",
+                "https://www.qfahim.com/assets/media/projects/project-awareness/proeight%20(3).jpg",
+                "https://www.qfahim.com/assets/media/projects/project-awareness/proeight%20(4).jpg",
+                "https://www.qfahim.com/assets/media/projects/project-awareness/proeight%20(5).jpg",
+                 "https://www.qfahim.com/assets/media/projects/project-awareness/proeight%20(8).jpg"],
+                 
     "texts": ["In May 2020, during Eid celebrations, we conducted Project Awareness through BASICS, distributing masks and using disinfectant sprays to spread awareness about the precautionary measures against COVID."],
     "links": [
       {
