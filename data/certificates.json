@@ -7,50 +7,98 @@
   },
   {
     "_id": 2,
-    "name": "Human Resource Management",
+    "name": "Introduction to Marketing: Tools to Set Enterprises Apart",
     "image": "https://www.qfahim.com/assets/media/certificates/Introduction%20to%20Marketing%20Tools%20to%20Set%20Enterprises%20Apart.jpg",
     "year": "2020"
   },
   {
     "_id": 3,
     "name": "Human Resource Management",
-    "image": "https://www.qfahim.com/assets/media/certificates/Introduction%20to%20Marketing%20Tools%20to%20Set%20Enterprises%20Apart.jpg",
+    "image": "https://www.qfahim.com/assets/media/certificates/Human%20Resource%20Management.jpg",
     "year": "2020"
   },
   {
     "_id": 4,
-    "name": "Human Resource Management",
-    "image": "https://www.qfahim.com/assets/media/certificates/Introduction%20to%20Marketing%20Tools%20to%20Set%20Enterprises%20Apart.jpg",
+    "name": "Success",
+    "image": "https://www.qfahim.com/assets/media/certificates/Success.jpg",
     "year": "2020"
   },
   {
     "_id": 5,
-    "name": "Human Resource Management",
-    "image": "https://www.qfahim.com/assets/media/certificates/Introduction%20to%20Marketing%20Tools%20to%20Set%20Enterprises%20Apart.jpg",
+    "name": "Building Businesses Online",
+    "image": "https://www.qfahim.com/assets/media/certificates/Building%20Businesses%20Online.jpg",
     "year": "2020"
   },
   {
     "_id": 6,
-    "name": "Human Resource Management",
-    "image": "https://www.qfahim.com/assets/media/certificates/Introduction%20to%20Marketing%20Tools%20to%20Set%20Enterprises%20Apart.jpg",
+    "name": "Globalization : Overcoming the challenges",
+    "image": "https://www.qfahim.com/assets/media/certificates/Globalization%20%20Overcoming%20the%20challenges.jpg",
     "year": "2020"
   },
   {
     "_id": 7,
-    "name": "Human Resource Management",
-    "image": "https://www.qfahim.com/assets/media/certificates/Introduction%20to%20Marketing%20Tools%20to%20Set%20Enterprises%20Apart.jpg",
+    "name": "PLS Path Modeling",
+    "image":"https://www.qfahim.com/assets/media/certificates/PLS%20Path%20Modeling.jpg",
     "year": "2020"
   },
   {
     "_id": 8,
-    "name": "Human Resource Management",
-    "image": "https://www.qfahim.com/assets/media/certificates/Introduction%20to%20Marketing%20Tools%20to%20Set%20Enterprises%20Apart.jpg",
+    "name": "Focus Strategies",
+    "image": "https://www.qfahim.com/assets/media/certificates/Focus%20Strategies.jpg",
     "year": "2020"
   },
   {
     "_id": 9,
-    "name": "Human Resource Management",
-    "image": "https://www.qfahim.com/assets/media/certificates/Introduction%20to%20Marketing%20Tools%20to%20Set%20Enterprises%20Apart.jpg",
+    "name":"Commercial Real Estate Investing",
+    "image": "https://www.qfahim.com/assets/media/certificates/Commercial%20Real%20Estate%20Investing.jpg",
+    "year": "2020",
+  },
+  {
+    "_id": 10,
+    "name":"PHP 7",
+    "image": "https://www.qfahim.com/assets/media/certificates/php%207.jpg",
     "year": "2020"
+  },
+  {
+    "_id": 11,
+    "name": "Project Management",
+    "image": "https://www.qfahim.com/assets/media/certificates/Project%20Management.jpg",
+    "year": "2019"
+  },
+  {
+    "_id": 12,
+    "name": "Microeconomics",
+    "image": "https://www.qfahim.com/assets/media/certificates/Microeconomics.jpg",
+    "year": "2019"
+  },
+  {
+    "_id": 13,
+    "name": "Practical Oriented Analysis of Financial Statements",
+    "image": "https://www.qfahim.com/assets/media/certificates/PRACTICAL%20ORIENTED%20ANALYSIS%20OF%20FINANCIAL%20STATEMENTS.jpg",
+    "year": "2019"
+  },
+  {
+    "_id": 14,
+    "name": "ECOMMERCE 101 & SUCCESSFUL DROPSHIPPING ON SHOPIFY",
+    "image": "https://www.qfahim.com/assets/media/certificates/ECOMMERCE%20101%20&%20SUCCESSFUL%20DROPSHIPPING%20ON%20SHOPIFY.jpg",
+    "year": "2019"
+  },
+  {
+    "_id": 15,
+    "name": "Stock Market Investing",
+    "image": "https://www.qfahim.com/assets/media/certificates/Stock%20Market%20Investing.jpg",
+    "year": "2019"
+  },
+  {
+    "_id": 16,
+    "name": "Practical Accounts Training A",
+    "image": "https://www.qfahim.com/assets/media/certificates/Practical%20Accounts%20Training%20A.jpg",
+    "year": "2019"
+  },
+  {
+    "_id": 17,
+    "name": "Practical Customer Development",
+    "image": "https://www.qfahim.com/assets/media/certificates/Practical%20Customer%20Development.jpg",
+    "year": "2019"
   }
 ]
