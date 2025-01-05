@@ -75,14 +75,18 @@
   },
   {
     "_id": 4,
-    "title": "",
+    "title": "CASE STUDY ON UNILEVER",
     "logo": "https://www.qfahim.com/assets/media/projects/case-study-on-uniliver/p-3.png",
-    "gallery": [],
-    "texts": [""],
+    "gallery": ["https://www.qfahim.com/assets/media/projects/case-study-on-uniliver/prothree.png","https://www.qfahim.com/assets/media/projects/case-study-on-uniliver/prothree.png","https://www.qfahim.com/assets/media/projects/case-study-on-uniliver/prothree.png"],
+    "texts": ["Made a report and in-class presentation for BUSN 250, comparing and contrasting the pricing model, brand value, production utilization, marketing strategies, and other regional factors between two different brands, LUX and Dove, under the supervision of Unilever PLC."],
     "links": [
       {
-        "name": "",
-        "link": ""
+        "name": "Presentation",
+        "link": "https://docs.google.com/file/d/1INmh3K6R0q30H0aaHOM8Xf0XyzNdhm3v/edit?filetype=mspresentation"
+      },
+      {
+        "name": "BUSN 250",
+        "link": "https://www.columbiacollege.ca/programs/course/busn-250/"
       }
     ]
   },
